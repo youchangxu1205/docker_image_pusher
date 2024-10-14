@@ -1,1 +1,2 @@
-apacherocketmq/rocketmq-dashboard
+elasticsearch
+kibana
